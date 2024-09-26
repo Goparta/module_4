@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav .nav-link {
+    color: #007BFF;
+}
+
+.menu-title {
+    color: #333;
+    margin-top: 20px;
+}
+
+.menu-section {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.content {
+    padding: 20px;
+    background-color: #EEE; /* Для білого фону в основному вмісті */
+}
+
+.row {
+    height: auto; /* Адаптуємо висоту до вмісту */
+}
